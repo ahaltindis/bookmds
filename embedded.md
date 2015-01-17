@@ -24,6 +24,15 @@ Some interesting sites and subjects I encounter while surfing on the internet.
 [tech3]: http://www.embeddedrelated.com/showarticle/498.php
 [tech4]: http://www.embeddedrelated.com/showarticle/429.php
 
+* ###Controlling
+    1. [PID for Dummies][control1] - Nice explaination about PID controllers.
+    2. [Brett's Blog][control2] - Great blog about PID and other controller stuffs. 
+        * Also he has __arduino pid library__ [[Github]][control2-1]
+
+[control1]: http://www.csimn.com/CSI_pages/PIDforDummies.html
+[control2]: http://brettbeauregard.com/blog/category/pid/page/2/
+[control2-1]: https://github.com/br3ttb/Arduino-PID-Library/
+
 * ###CNC
     1. [LinuxCNC][cnc1] - A software system for computer control of machine tools such as miling
     machines and lathes.
