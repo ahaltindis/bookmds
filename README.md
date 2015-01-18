@@ -7,8 +7,11 @@ Following subject[s] is reachable at the moment:
 
 * [Embedded][1]
 * [Software][2]
+* [Fun][3]
 
 
 
 [1]: http://www.github.com/ahaltindis/bookmds/blob/master/embedded.md
 [2]: http://www.github.com/ahaltindis/bookmds/blob/master/software.md
+[3]: http://www.github.com/ahaltindis/bookmds/blob/master/fun.md
+
