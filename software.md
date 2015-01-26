@@ -16,10 +16,18 @@ Software Related Stuffs
 * ###Environment
     1. [Github Cheat Sheet][env1] - Nice things to know about git and github.
 
+    2. [Getting Git Right][env2] - Great tutorials with graphs to use git
+       efficiently. 
+
 [env1]: https://github.com/tiimgreen/github-cheat-sheet
+[env2]: https://www.atlassian.com/git/
 
 * ###Practices, Quizzes, Tests
     1. [Programming Praxis][prac1] - Great programming praxis that will sharpen
        programming skills..
 
+    2. [Coding Interviews][prac2] - LeetCode OJ is a platform for preparing
+       technical coding interviews.
+
 [prac1]: http://programmingpraxis.com/
+[prac2]: https://oj.leetcode.com/
