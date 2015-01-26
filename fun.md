@@ -1,6 +1,12 @@
 Fun Stuffs
 ==========
 
+* ###Books
+    1. [Turkiye Kitapligi][book1] - A list with Great books from turkish
+       authors.
+
+[book1]: http://www.sanatblog.com/bir-turkiye-kitapligi/
+
 * ###Movies
     1. [Recommended 35 Movies for Parents][mov1] - Nice movies for
        especially parents to watch with their kids.
