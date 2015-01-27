@@ -15,5 +15,5 @@ Following subject[s] is reachable at the moment:
 [1]: http://www.github.com/ahaltindis/bookmds/blob/master/embedded.md
 [2]: http://www.github.com/ahaltindis/bookmds/blob/master/software.md
 [3]: http://www.github.com/ahaltindis/bookmds/blob/master/fun.md
-[3]: http://www.github.com/ahaltindis/bookmds/blob/master/photography.md
+[4]: http://www.github.com/ahaltindis/bookmds/blob/master/photography.md
 
