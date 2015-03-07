@@ -32,8 +32,12 @@ Software Related Stuffs
     2. [Getting Git Right][env2] - Great tutorials with graphs to use git
        efficiently. 
 
+    3. [Git Screwups][env3] - Common screw ups in git and how to recover from
+       these.
+
 [env1]: https://github.com/tiimgreen/github-cheat-sheet
 [env2]: https://www.atlassian.com/git/
+[env3]: http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/
 
 * ###Practices, Quizzes, Tests
     1. [Programming Praxis][prac1] - Great programming praxis that will sharpen
