@@ -19,5 +19,5 @@ Following subject[s] is reachable at the moment:
 [3]: fun.md
 [4]: photography.md
 [5]: computer.md
-[5]: cs.md
+[6]: cs.md
 
