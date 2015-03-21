@@ -7,6 +7,7 @@ Following subject[s] is reachable at the moment:
 
 * [Computer Science][6]
 * [Software][2]
+* [Hardware][7]
 * [Embedded][1]
 * [Computer-OS][5]
 * [Fun][3]
@@ -20,4 +21,5 @@ Following subject[s] is reachable at the moment:
 [4]: photography.md
 [5]: computer.md
 [6]: cs.md
+[7]: hardware.md
 
