@@ -22,9 +22,11 @@ Software Related Stuffs
     1. [16 Months of Functional Programming][blog1] - Nice story about
        functional programming.
 
-    2. .
+    2. [Video Filters in Qt Multimedia][blog2] - Intoduction using filters with
+       qt.
 
 [blog1]: http://www.vasinov.com/blog/16-months-of-functional-programming/
+[blog2]: http://blog.qt.io/blog/2015/03/20/introducing-video-filters-in-qt-multimedia/
 
 * ###Environment
     1. [Github Cheat Sheet][env1] - Nice things to know about git and github.
