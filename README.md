@@ -9,7 +9,9 @@ Following subject[s] is reachable at the moment:
 * [Software][2]
 * [Hardware][7]
 * [Embedded][1]
+* [Inspiring][8]
 * [Computer-OS][5]
+* [Courses-Tutorials][9]
 * [Fun][3]
 * [Photography][4]
 
@@ -22,4 +24,6 @@ Following subject[s] is reachable at the moment:
 [5]: computer.md
 [6]: cs.md
 [7]: hardware.md
+[8]: inspiring.md
+[9]: courses.md
 

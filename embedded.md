@@ -28,10 +28,12 @@ Some interesting sites and subjects I encounter while surfing on the internet.
     1. [PID for Dummies][control1] - Nice explaination about PID controllers.
     2. [Brett's Blog][control2] - Great blog about PID and other controller stuffs. 
         * Also he has __arduino pid library__ [[Github]][control2-1]
+    3. [PID Controller Desing][control3] - Pid design in matlab simulink.
 
 [control1]: http://www.csimn.com/CSI_pages/PIDforDummies.html
 [control2]: http://brettbeauregard.com/blog/category/pid/page/2/
 [control2-1]: https://github.com/br3ttb/Arduino-PID-Library/
+[control3]: http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
 
 * ###CNC
     1. [LinuxCNC][cnc1] - A software system for computer control of machine tools such as miling
@@ -40,14 +42,22 @@ Some interesting sites and subjects I encounter while surfing on the internet.
     2. [Marginally Clever][cnc2] - A group of devs are doing some great works I loved. 
         * Great GCode parser for arduino. [[Github]][cnc2-1] [[Youtube]][cnc2-2]
 
+    3. [Zen Toolworks CNC][cnc3] - DIY CNC project. Also has another projects
+       going on.
+
+    4. [Smoothieboard][cnc4] - Open source cnc controller board based on the
+       cortex-M3 chip.
+    
+    5. [Arduino milling machine, part I][cnc5] - From stratch miling machine
+       with arduino.
+
 [cnc1]: http://www.linuxcnc.org
 [cnc2]: https://www.marginallyclever.com 
 [cnc2-1]: https://github.com/MarginallyClever/GcodeCNCDemo 
 [cnc2-2]: https://www.youtube.com/watch?v=BBanpDUTklk 
 [cnc3]: http://wiki.acemonstertoys.org/Guido 
-
-    3. [Zen Toolworks CNC][cnc3] - DIY CNC project. Also has another projects
-       going on.
+[cnc4]: http://smoothieware.org/smoothieboard
+[cnc5]: http://rikkipitt.com/arduino-milling-machine-part-i
 
 * ###Shopping
     1. [ebay] [CNC Shield v3.0][ebay1] - GRBL compatible with Pololu A4988 drivers for
